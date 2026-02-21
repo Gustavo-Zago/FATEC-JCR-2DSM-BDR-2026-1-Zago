@@ -1,9 +1,9 @@
 # Portfólio – Banco de Dados Relacional – 2026/1
 
 ## 👤 Aluno
-- Nome:
-- LinkedIn:
-- GitHub:
+- Nome: Gustavo Zago de Lima
+- LinkedIn: https://www.linkedin.com/in/gustavo-zago-23459526b/
+- GitHub: Gustavo-Zago
 
 ---
 
